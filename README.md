@@ -50,7 +50,7 @@ git fetch
  ```
 Check out the new branch:
 ```
-git checkout new-feature-branch
+git checkout duplicatebranch
 
 ```
 
