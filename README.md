@@ -43,7 +43,7 @@ Clone this repository to your local machine using the following command:
 git clone https://github.com/purvaac/LeaveManagement.git
 cd LeaveManagement
 ```
-fetch all branches:
+Fetch all branches:
 ```
 git fetch
 
