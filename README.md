@@ -1,16 +1,44 @@
-# my_laptop_app
+# Leave Management System
 
-A new Flutter project.
+This repository contains the source code for the Leave Management System. It is designed to help manage leave requests and approvals within an organization.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-A few resources to get you started if this is your first Flutter project:
+## Introduction
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The Leave Management System is a web application that allows employees to request leave and managers to approve or reject those requests. The system keeps track of all leave requests and their statuses.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- User authentication and authorization
+- Request leave
+- Approve or reject leave requests
+- View leave history
+- Email notifications
+
+## Installation
+
+To get a local copy of the project up and running, follow these steps.
+
+### Prerequisites
+
+Ensure you have the following installed on your machine:
+- Git
+- [Node.js](https://nodejs.org/) and npm (for a JavaScript-based project)
+- [Python](https://www.python.org/) and pip (for a Python-based project)
+- Any other relevant tools or libraries your project depends on
+
+### Clone the Repository
+
+Clone this repository to your local machine using the following command:
+
+```sh
+git clone https://github.com/purvaac/LeaveManagement.git
+cd LeaveManagement
