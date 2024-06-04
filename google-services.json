@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "847932126955",
+    "firebase_url": "https://attendance-4a056-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "attendance-4a056",
+    "storage_bucket": "attendance-4a056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847932126955:android:4633f1e9aa5b265ce230ae",
+        "android_client_info": {
+          "package_name": "com.example.my_laptop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTddnAbOr7yixXE5-50h1nENhYL10zK0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

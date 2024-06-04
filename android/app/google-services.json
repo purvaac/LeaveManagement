@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247419912734",
+    "project_id": "leave-8d0f6",
+    "storage_bucket": "leave-8d0f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247419912734:android:eb05c2a096cbfa59b3e40f",
+        "android_client_info": {
+          "package_name": "com.example.my_laptop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUEa79wovZehuq6lsxSc7xVQYjGFlG8d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
