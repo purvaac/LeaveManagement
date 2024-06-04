@@ -42,3 +42,27 @@ Clone this repository to your local machine using the following command:
 ```sh
 git clone https://github.com/purvaac/LeaveManagement.git
 cd LeaveManagement
+```
+fetch all branches:
+```
+git fetch
+
+ ```
+Check out the new branch:
+```
+git checkout new-feature-branch
+
+```
+
+## Pushing Changes to the New Branch
+
+1. Add and commit the changes:
+```
+git add .
+git commit -m " changes made"
+```
+
+2. Push the changes to the new branch:
+```
+git push origin new-feature-branch
+```
